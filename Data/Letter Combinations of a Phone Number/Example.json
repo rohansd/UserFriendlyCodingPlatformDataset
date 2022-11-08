@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : "23",
+		"Output" : ["ad","ae","af","bd","be","bf","cd","ce","cf"],
+	},
+	"Example2" : {
+		"Input" : "",
+		"Output" : [],
+	},
+	"Example3" : {
+		"Input" : "2",
+		"Output" : ["a","b","c"],
+	}
+}

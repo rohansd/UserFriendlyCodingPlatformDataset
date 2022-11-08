@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : ["barfoothefoobarman", ["foo","bar"]],
+		"Output" : [0,9],
+	},
+	"Example2" : {
+		"Input" : ["wordgoodgoodgoodbestword", ["word","good","best","word"]],
+		"Output" : [],
+	},
+	"Example3" : {
+		"Input" : ["barfoofoobarthefoobarman", ["bar","foo","the"]],
+		"Output" : [6,9,12],
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"Example1" : {
+		"Input" : ["flower","flow","flight"],
+		"Output" : "fl",
+	},
+	"Example2" : {
+		"Input" : ["dog","racecar","car"],
+		"Output" : "",
+	},
+}

@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : "abcabcbb",
+		"Output" : 3,
+	},
+	"Example2" : {
+		"Input" : "bbbbb",
+		"Output" : 1,
+	},
+	"Example3" : {
+		"Input" : "pwwkew",
+		"Output" : 3,
+	}
+}

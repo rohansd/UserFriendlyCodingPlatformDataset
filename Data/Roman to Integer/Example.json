@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : "III",
+		"Output" : 3,
+	},
+	"Example2" : {
+		"Input" : "LVIII",
+		"Output" : 58,
+	},
+	"Example3" : {
+		"Input" : "MCMXCIV",
+		"Output" : 1994,
+	}
+}

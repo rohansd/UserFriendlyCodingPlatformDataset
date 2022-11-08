@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : "()",
+		"Output" : true,
+	},
+	"Example2" : {
+		"Input" : "()[]{}",
+		"Output" : true,
+	},
+	"Example3" : {
+		"Input" : "(]",
+		"Output" : false,
+	}
+}

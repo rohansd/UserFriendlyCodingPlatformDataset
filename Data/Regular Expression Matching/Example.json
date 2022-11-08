@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : ["aa","a"],
+		"Output" : false,
+	},
+	"Example2" : {
+		"Input" : ["aa","a*"],
+		"Output" : true,
+	},
+	"Example3" : {
+		"Input" : ["ab",".*"],
+		"Output" : true,
+	}
+}

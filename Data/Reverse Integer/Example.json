@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : 123,
+		"Output" : 321,
+	},
+	"Example2" : {
+		"Input" : -123,
+		"Output" : -321,
+	},
+	"Example3" : {
+		"Input" : 120,
+		"Output" : 21,
+	}
+}

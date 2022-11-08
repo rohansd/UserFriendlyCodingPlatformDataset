@@ -1,0 +1,10 @@
+{
+	"Example1" : {
+		"Input" : "babad",
+		"Output" : "bab",
+	},
+	"Example2" : {
+		"Input" : "cbbd",
+		"Output" : "bb",
+	}
+}

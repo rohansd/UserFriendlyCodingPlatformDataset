@@ -1,0 +1,10 @@
+{
+	"Example1" : {
+		"Input" : [10, 3],
+		"Output" : 3,
+	},
+	"Example2" : {
+		"Input" : [7, -3],
+		"Output" : -2,
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"Example1" : {
+		"Input" : ["sadbutsad", "sad"],
+		"Output" : 0,
+	},
+	"Example2" : {
+		"Input" : ["leetcode", "leeto"],
+		"Output" : -1,
+	}
+}

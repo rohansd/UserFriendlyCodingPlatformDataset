@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : ["PAYPALISHIRING", 3],
+		"Output" : "PAHNAPLSIIGYIR",
+	},
+	"Example2" : {
+		"Input" : ["PAYPALISHIRING", 4],
+		"Output" : "PINALSIGYAHRPI",
+	},
+	"Example3" : {
+		"Input" : ["A", 1],
+		"Output" : "A",
+	}
+}

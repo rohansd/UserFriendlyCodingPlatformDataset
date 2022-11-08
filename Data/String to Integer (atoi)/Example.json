@@ -1,0 +1,14 @@
+{
+	"Example1" : {
+		"Input" : "42",
+		"Output" : 42,
+	},
+	"Example2" : {
+		"Input" : "   -42",
+		"Output" : -42,
+	},
+	"Example3" : {
+		"Input" : "4193 with words",
+		"Output" : 4193,
+	}
+}
